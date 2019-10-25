@@ -14,21 +14,21 @@
 		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 		<meta content="unsafe-url" id="mref" name="referrer" />
         <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
-		<meta property="og:image" content="http://byfor.ru/img/login_bg.png" />
-        <meta name="thumbnail" content="http://byfor.ru/img/3d-skin.png" />
-        <meta name="twitter:image:src" content="http://byfor.ru/img/donate-banner.jpg" />
+		<meta property="og:image" content="http://wotbyfor.github.io/img/login_bg.png" />
+        <meta name="thumbnail" content="http://wotbyfor.github.io/img/3d-skin.png" />
+        <meta name="twitter:image:src" content="http://wotbyfor.github.io/img/donate-banner.jpg" />
         <meta property="og:title" content="ByForMOD - Повысить фпс в игре World Of Tanks 2019"/>
         <meta property="og:description" content="Этот мод для повышения производительности в игре World of Tanks.
         Довольно таки хорошо показует себя на слабых видео картах и процессорах.
         Производительность игры будет такая же как в патче клиента 0.9.18!"/>
-        <meta property="og:url" content="http://byfor.ru/"/>
+        <meta property="og:url" content="http://wotbyfor.github.io/"/>
         <meta property="og:site_name" content="ByForMOD - Повысить фпс в игре World Of Tanks 2019"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="ByForMOD - Повысить фпс в игре World Of Tanks 2019"/>   
         <meta name="twitter:description" content="Этот мод для повышения производительности в игре World of Tanks.
         Довольно таки хорошо показует себя на слабых видео картах и процессорах.
         Производительность игры будет такая же как в патче клиента 0.9.18!"/>
-        <meta name="twitter:url" content="http://byfor.ru/"/>
+        <meta name="twitter:url" content="http://wotbyfor.github.io/"/>
         <meta property="fb:pages" content="720002121403767"/>
         <meta name="copyright" lang="ru" content="ООС ByFor сайт являются частью проекта ByFor. Все вопросы можно задать на форуме, но предварительно посмотрите на уже заданные вопросы другими людьми." />
 		<!-- Meta -->
@@ -44,9 +44,9 @@
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
         <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
         <link href="css/style.css" type="text/css" rel="stylesheet">
-        <link rel="prev" href="http://byfor.ru/" />
-        <link rel="next" href="http://byfor.ru/" />
-		<link rel="canonical" href="http://byfor.ru/" />
+        <link rel="prev" href="http://wotbyfor.github.io/" />
+        <link rel="next" href="http://wotbyfor.github.io/" />
+		<link rel="canonical" href="http://wotbyfor.github.io/" />
 		<link type="image/x-icon" rel="icon" href="favicon.ico">
 		<link type="image/x-icon" rel="shortcut icon" href="favicon.png">
 		<link type="image/x-icon" rel="shortcut icon" href="favicon-0.png">
@@ -58,9 +58,9 @@
 		<link type="image/x-icon" rel="icon" href="favicon.ico">
         <link rel="canonical" href="http://byfor.zzz.com.ua"/>
         <link rel="canonical" href="http://byfor.zzz.com.ua"/>
-        <link rel="canonical" href="http://byfor.ru"/>
-        <link rel="canonical" href="http://byfor.ru"/>
-		<link rel="sitemap" href="http://byfor.ru/sitemap.xml">
+        <link rel="canonical" href="http://wotbyfor.github.io"/>
+        <link rel="canonical" href="http://wotbyfor.github.io"/>
+		<link rel="sitemap" href="http://wotbyfor.github.io/sitemap.xml">
 		<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,700&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
 		<link rel="icon" type="image/png" href="favicon.png" sizes="16x16">
 		<link rel="icon" type="image/png" href="favicon-0.png" sizes="32x32">
@@ -71,58 +71,58 @@
 		<link rel="apple-touch-icon" sizes="180x180" href="favicon_ios">
 		<link rel="mask-icon" href="favicon-1.png" color="#474747">
         <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet" />
-	    <link rel="alternate" href="http://byfor.ru/eu/fr/" hreflang="fr-be" />
-		<link rel="alternate" href="http://byfor.ru/eu/fr/" hreflang="fr-fr" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-be" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-ba" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="bs-ba" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-bg" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="bg-bg" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-hr" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="hr-hr" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-cz" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-fr" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-ge" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="ka-ge" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-de" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-hu" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="hu-hu" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-il" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="he-il" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-it" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-lv" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="lv-lv" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-lt" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="lt-lt" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-nl" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="nl-nl" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-pl" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-ro" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="ro-ro" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="sr-rs" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-rs" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-sk" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="sk-sk" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-es" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-tr" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-gb" />
-		<link rel="alternate" href="http://byfor.ru/eu/pl/" hreflang="pl-pl" />
-		<link rel="alternate" href="http://byfor.ru/eu/cs/" hreflang="cs-cz" />
-		<link rel="alternate" href="http://byfor.ru/eu/de/" hreflang="de-de" />
-		<link rel="alternate" href="http://byfor.ru/eu/tr/" hreflang="tr-tr" />
-		<link rel="alternate" href="http://byfor.ru/eu/it/" hreflang="it-it" />
-		<link rel="alternate" href="http://byfor.ru/eu/es/" hreflang="es-es" />
-		<link rel="alternate" href="http://byfor.ru/" hreflang="ru-by" />
-		<link rel="alternate" href="http://byfor.ru/" hreflang="ru-kz" />
-		<link rel="alternate" href="http://byfor.ru/" hreflang="kk-kz" />
-		<link rel="alternate" href="http://byfor.ru/" hreflang="ru-ru" />
-		<link rel="alternate" href="http://byfor.ru/" hreflang="ru-ua" />
-		<link rel="alternate" href="http://byfor.ru/uk/" hreflang="uk-ua" />
-		<link rel="alternate" href="http://byfor.ru/eu/es-ar/" hreflang="es-ar" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-ar" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-br" />
-		<link rel="alternate" href="http://byfor.ru/eu/" hreflang="en-us" />
-		<link rel="alternate" href="http://byfor.ru/eu/pt-br/" hreflang="pt-br" />
+	    <link rel="alternate" href="http://wotbyfor.github.io/eu/fr/" hreflang="fr-be" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/fr/" hreflang="fr-fr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-be" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-ba" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="bs-ba" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-bg" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="bg-bg" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-hr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="hr-hr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-cz" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-fr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-ge" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="ka-ge" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-de" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-hu" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="hu-hu" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-il" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="he-il" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-it" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-lv" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="lv-lv" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-lt" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="lt-lt" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-nl" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="nl-nl" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-pl" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-ro" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="ro-ro" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="sr-rs" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-rs" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-sk" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="sk-sk" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-es" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-tr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-gb" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/pl/" hreflang="pl-pl" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/cs/" hreflang="cs-cz" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/de/" hreflang="de-de" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/tr/" hreflang="tr-tr" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/it/" hreflang="it-it" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/es/" hreflang="es-es" />
+		<link rel="alternate" href="http://wotbyfor.github.io/" hreflang="ru-by" />
+		<link rel="alternate" href="http://wotbyfor.github.io/" hreflang="ru-kz" />
+		<link rel="alternate" href="http://wotbyfor.github.io/" hreflang="kk-kz" />
+		<link rel="alternate" href="http://wotbyfor.github.io/" hreflang="ru-ru" />
+		<link rel="alternate" href="http://wotbyfor.github.io/" hreflang="ru-ua" />
+		<link rel="alternate" href="http://wotbyfor.github.io/uk/" hreflang="uk-ua" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/es-ar/" hreflang="es-ar" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-ar" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-br" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/" hreflang="en-us" />
+		<link rel="alternate" href="http://wotbyfor.github.io/eu/pt-br/" hreflang="pt-br" />
 
  
 
@@ -144,7 +144,7 @@
 
 	 <style>
    body {
-background-image: url("http://byfor.ru/img/bg.jpg");
+background-image: url("http://wotbyfor.github.io/img/bg.jpg");
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
@@ -166,11 +166,11 @@ background-size: cover;
 				  
                     <!-- navigation links -->
 				
-                    <li rel="canonical" class="active"><a href="http://byfor.ru/">Главная</a></li>
-					<li rel="canonical" class="active"><a href="http://byfor.ru/clan.html"target="_blank">НАШ КЛАН</a></li>
+                    <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/">Главная</a></li>
+					<li rel="canonical" class="active"><a href="http://wotbyfor.github.io/clan.html"target="_blank">НАШ КЛАН</a></li>
 					<li rel="canonical" class="active"><a href=""><sup><ins>RU</ins></sup></a></li>
-					 <li rel="canonical" class="active"><a href="http://byfor.ru/uk/">UA</a></li>
-					  <li rel="canonical" class="active"><a href="http://byfor.ru/eu/">EU</a></li>
+					 <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/uk/">UA</a></li>
+					  <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/eu/">EU</a></li>
 
 					
 	
@@ -196,7 +196,7 @@ background-size: cover;
          <div id="install">
           <div class="links">
             <a href="#install" class="btn btn-transparent">Выбери для себя файл запуска<i class="fa fa-play-circle-o"></i></a>
-            <a href="http://byfor.ru/ByForMOD(OLD FPS).7z" class="btn btn-danger dlButton">Скачать (v28)<i class="fa fa-chevron-right"></i></a>
+            <a href="http://wotbyfor.github.io/ByForMOD(OLD FPS).7z" class="btn btn-danger dlButton">Скачать (v28)<i class="fa fa-chevron-right"></i></a>
           </div>
 		
 
@@ -227,8 +227,8 @@ background-size: cover;
                 » Запуск игры в режиме DirectX9 через данный файл WorldOfTanks(startgame_DX9).bat .<br>
 				<br>
               </p>
-              <a href="http://byfor.ru/WorldOfTanks(startgame).zip"target="_blank" class="btn btn-transparent">DX11 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-play-circle-o"></i></a>
-              <a href="http://byfor.ru/WorldOfTanks(startgame_dx9).zip"target="_blank" class="btn btn-black">DX9 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-chevron-right"></i></a>
+              <a href="http://wotbyfor.github.io/WorldOfTanks(startgame).zip"target="_blank" class="btn btn-transparent">DX11 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-play-circle-o"></i></a>
+              <a href="http://wotbyfor.github.io/WorldOfTanks(startgame_dx9).zip"target="_blank" class="btn btn-black">DX9 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-chevron-right"></i></a>
           </div>
         </div>
 
@@ -293,11 +293,11 @@ background-size: cover;
                 <div class="spacer"></div>
                 <div class="links">
 
-                               <a href="http://byfor.ru/">Главная</a>
-					<a href="http://byfor.ru/clan/"target="_blank">НАШ КЛАН</a>
+                               <a href="http://wotbyfor.github.io/">Главная</a>
+					<a href="http://wotbyfor.github.io/clan/"target="_blank">НАШ КЛАН</a>
 					<a href=""><sup><ins>RU</ins></sup></a>
-					<a href="http://byfor.ru/uk/">UA</a>
-					<a href="http://byfor.ru/eu/">EU</a>
+					<a href="http://wotbyfor.github.io/uk/">UA</a>
+					<a href="http://wotbyfor.github.io/eu/">EU</a>
 
 
 
@@ -444,12 +444,6 @@ VK.Widgets.CommunityMessages("vk_community_messages", 164047579, {expandTimeout:
 
 
 
-
-
-
-<?
-echo ", ".$Fname." ".$Lname."";
-?>
 
 
 
