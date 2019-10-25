@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  xmlns:yandex="http://news.yandex.ru"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:turbo="http://turbo.yandex.ru"
+  version="2.0">
+     <channel>
+        <title>BYFORMOD » ПОВЫСИТЬ ФПС</title>
+        <link>https://wot.byfor.ru/</link>
+        <description>Этот мод для повышения производительности в игре World of Tanks.
+Довольно таки хорошо показует себя на слабых видео картах и процессорах.
+Производительность игры будет такая же как в патче клиента 0.9.18!</description>
+        <language>ru</language>
+        <turbo:analytics></turbo:analytics>
+        <turbo:adNetwork></turbo:adNetwork>
+        <item turbo="true">
+            <!-- Информация о странице -->
+        </item>
+        ...
+    </channel>
+
+</rss>
