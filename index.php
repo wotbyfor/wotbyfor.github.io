@@ -56,4 +56,32 @@ if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === "off") {
         <meta name="description" content="Этот мод для повышения производительности в игре World of Tanks.
         Довольно таки хорошо показует себя на слабых видео картах и процессорах.
         Производительность игры будет такая же как в патче клиента 0.9.18!" />
-		
+			  <!-- css -->
+
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/bootstrap.min.css" type="text/css" rel="stylesheet">
+        <link href="css/style.css" type="text/css" rel="stylesheet">
+        <link rel="prev" href="http://wotbyfor.github.io/" />
+        <link rel="next" href="http://wotbyfor.github.io/" />
+		<link rel="canonical" href="http://wotbyfor.github.io/" />
+		<link type="image/x-icon" rel="icon" href="favicon.ico">
+		<link type="image/x-icon" rel="shortcut icon" href="favicon.png">
+		<link type="image/x-icon" rel="shortcut icon" href="favicon-0.png">
+		<link type="image/jpg" rel="apple-touch-icon" href="favicon-1.png">	
+		<link type="image/x-icon" rel="shortcut icon" href="favicon-2.png">
+		<link type="image/jpg" rel="apple-touch-icon" href="favicon-3.png">	
+		<link type="image/x-icon" rel="shortcut icon" href="favicon-4.png">
+		<link type="image/jpg" rel="apple-touch-icon" href="favicon_ios.png">	
+		<link type="image/x-icon" rel="icon" href="favicon.ico">
+        <link rel="canonical" href="http://wotbyfor.github.io"/>
+        <link rel="canonical" href="http://wotbyfor.github.io"/>
+		<link rel="sitemap" href="http://wotbyfor.github.io/sitemap.xml">
+		<link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,700&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+		<link rel="icon" type="image/png" href="favicon.png" sizes="16x16">
+		<link rel="icon" type="image/png" href="favicon-0.png" sizes="32x32">
+		<link rel="icon" type="image/png" href="favicon-2.png" sizes="96x96">
+		<link rel="icon" type="image/png" href="favicon-3.png" sizes="192x192">
+		<link rel="apple-touch-icon" sizes="60x60" href="favicon-4.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="favicon-4.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="favicon_ios">
+		<link rel="mask-icon" href="favicon-1.png" color="#474747">
