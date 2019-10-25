@@ -1,2 +1,0 @@
-# wotbyfor.github.io
-ыфвфывы
