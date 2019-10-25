@@ -131,16 +131,96 @@
               <img class="logo" src="https://wotbyfor.github.io/logo.svg" width="225">
             </div>
             <div class="col-md-10">
-			
-
-
-
-	 <style>
+			 <style>
    body {
-background-image: url("https://wotbyfor.github.io/img/bg.jpg");
+background-image: url("http://wotbyfor.github.io/img/bg.jpg");
 background-repeat: no-repeat;
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
   }
   </style>	
+    
+
+              <!-- navigation start -->
+              <nav class="navbar navbar-default" role="navigation">
+	<nav>
+                <div class="navbar-header">
+                 
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse">
+                  <ul class="nav navbar-nav navbar-right">
+				  
+                    <!-- navigation links -->
+				
+                    <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/">Главная</a></li>
+					<li rel="canonical" class="active"><a href="http://wotbyfor.github.io/clan.html"target="_blank">НАШ КЛАН</a></li>
+					<li rel="canonical" class="active"><a href=""><sup><ins>RU</ins></sup></a></li>
+					 <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/uk/">UA</a></li>
+					  <li rel="canonical" class="active"><a href="http://wotbyfor.github.io/eu/">EU</a></li>
+
+					
+	
+                    <!-- end navigation links -->
+                  </ul>
+                </div><!-- /.navbar-collapse -->
+				
+              </nav>
+			  
+              <!-- navigation end -->
+			  
+			      </div>
+          </div>
+        </div> 
+			  
+
+        <!-- banner text -->
+        <h1>ByForMOD » Повысить фпс</h1>
+        <p>Этот мод для повышения производительности
+в игре World of Tanks.<br>Довольно таки хорошо показует себя на слабых видео картах и процессорах.<br>
+Производительность игры будет такая же как в патче клиента 0.9.18!</p>
+        
+         <div id="install">
+          <div class="links">
+            <a href="#install" class="btn btn-transparent">Выбери для себя файл запуска<i class="fa fa-play-circle-o"></i></a>
+            <a href="http://wotbyfor.github.io/ByForMOD(OLD FPS).7z" class="btn btn-danger dlButton">Скачать (v28)<i class="fa fa-chevron-right"></i></a>
+          </div>
+		
+
+	
+        <!-- end banner text -->
+
+		
+        </header>
+	<div style="margin: 10px auto; width: 250px;">
+       
+        </div><!-- /features -->
+        </div>
+
+
+
+
+
+
+      <!-- about section -->
+        <div class="row">
+            <div id="about">
+              <h1>
+                Выбери для себя файл запуска
+              </h1>
+              <p>
+                » Запуск игры в режиме DirectX10 через данный файл WorldOfTanks(startgame).bat<br>
+               <br>
+                » Запуск игры в режиме DirectX9 через данный файл WorldOfTanks(startgame_DX9).bat .<br>
+				<br>
+              </p>
+              <a href="http://wotbyfor.github.io/WorldOfTanks(startgame).zip"target="_blank" class="btn btn-transparent">DX11 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-play-circle-o"></i></a>
+              <a href="http://wotbyfor.github.io/WorldOfTanks(startgame_dx9).zip"target="_blank" class="btn btn-black">DX9 + ВЫСОКИЙ ПРИОРИТЕТ<i class="fa fa-chevron-right"></i></a>
+          </div>
+        </div>
+
+
+
+
