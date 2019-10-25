@@ -1,5 +1,4 @@
 # wotbyfor.github.io
-# wotbyfor.github.io
 <html lang="ru" data-global-crop-class="global-crop" data-sidebar-mobile-class="crop-mobile" >
 <!----------Начало Техническая информация-------->	
 <head> 
