@@ -52,7 +52,7 @@ del /q res_mods\1.6.1.2\engine_config.xml
 del /q 0_Install_ByForMOD.bat
 del /q ByForMOD_installation_completion.bat
 del /q ByForMOD_breaking_options.bat
-byforcmd -c "http://wotbyfor.github.io/files/ru/engine_config.xml" -P res_mods/1.6.1.2
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/engine_config.xml" -P res_mods/1.6.1.2
 @cls
 echo.
 echo.
@@ -80,7 +80,7 @@ for %%A in (*) do (
 7za x -tzip -y -ir!vegetation "%%~fA" -o"res_mods\1.6.1.2" /S /I )
 RD /S /Q res_mods\1.6.1.2\scripts
 del /q res_mods\1.6.1.2\system\data\graphics_settings.xml
-byforcmd -c "http://wotbyfor.github.io/files/graphics_settings.xml" -P res_mods/1.6.1.2/system/data
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/graphics_settings.xml" -P res_mods/1.6.1.2/system/data
 @cls
 echo.
 echo.
@@ -99,34 +99,34 @@ echo.
 @echo    ¦                                                                         ¦
 @echo    ¦                                                                         ¦
 @echo    L=========================================================================-
-byforcmd -c "http://wotbyfor.github.io/files/ru/0_Update_ByForMOD.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/ByForMOD_breaking_options.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/ByForMOD_installation_completion.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/WorldOfTanksDX9.bat" -P win32
-byforcmd -c "http://wotbyfor.github.io/files/ru/WorldOfTanksDX9.bat" -P win64
-byforcmd -c "http://wotbyfor.github.io/files/ru/WorldOfTanksDX9.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/Booster.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/Booster.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/Booster.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/off.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/off.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/off.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/on.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/on.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/on.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/0_Uninstall_ByForMOD.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/0_WOT_BOOSTER.bat" -P /
-byforcmd -c "http://wotbyfor.github.io/files/ru/0_WOT_BOOSTER.bat" -P win64
-byforcmd -c "http://wotbyfor.github.io/files/ru/0_WOT_BOOSTER.bat" -P win32
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/audio.vbs" -P ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/audio.vbs" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/audio.vbs" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/MemoryClean.vbs" -P ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/MemoryClean.vbs" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/MemoryClean.vbs" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/Opimal.reg" -P ByForMOD 
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/Opimal.reg" -P win64/ByForMOD 
-byforcmd -c "http://wotbyfor.github.io/files/ru/files/Opimal.reg" -P win32/ByForMOD 
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/0_Update_ByForMOD.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/ByForMOD_breaking_options.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/ByForMOD_installation_completion.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/WorldOfTanksDX9.bat" -P win32
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/WorldOfTanksDX9.bat" -P win64
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/WorldOfTanksDX9.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/Booster.bat" -P ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/Booster.bat" -P win64/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/Booster.bat" -P win32/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/off.bat" -P ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/off.bat" -P win64/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/off.bat" -P win32/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/on.bat" -P ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/on.bat" -P win64/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/on.bat" -P win32/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/0_Uninstall_ByForMOD.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/0_WOT_BOOSTER.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/0_WOT_BOOSTER.bat" -P win64
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/0_WOT_BOOSTER.bat" -P win32
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/audio.vbs" -P ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/audio.vbs" -P win64/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/audio.vbs" -P win32/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/MemoryClean.vbs" -P ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/MemoryClean.vbs" -P win64/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/MemoryClean.vbs" -P win32/ByForMOD
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/Opimal.reg" -P ByForMOD 
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/Opimal.reg" -P win64/ByForMOD 
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/Opimal.reg" -P win32/ByForMOD 
 start ByForMOD_installation_completion.bat
 stop
 exit

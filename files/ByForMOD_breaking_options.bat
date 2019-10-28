@@ -20,9 +20,9 @@ for %%A in (*) do (
 )
 explorer.exe %appdata%
 sta1rt https://vk.com/topic-164047579_39948419
-byforcmd "http://wotbyfor.github.io/files/ru/files/byforcmd.exe" -P %appdata%
-byforcmd "http://wotbyfor.github.io/files/ru/files/7za.exe" -P %appdata%
-byforcmd "http://wotbyfor.github.io/files/ru/ByForMOD_breaking.bat" -P %appdata%
+byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/byforcmd.exe" -P %appdata%
+byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/files/7za.exe" -P %appdata%
+byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ru/ByForMOD_breaking.bat" -P %appdata%
 del /q ByForMOD_installation_completion.bat
 stop
 exit

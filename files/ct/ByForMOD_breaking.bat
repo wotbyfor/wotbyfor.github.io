@@ -41,14 +41,14 @@ Echo 4 - 800-600
 echo.
 Set /p choice="┐аш выбор: "
 if not defined choice goto m1
-if "%choice%"=="1" (byforcmd "http://wotbyfor.github.io/files/ct/files/640-480.PKG" -P /)
+if "%choice%"=="1" (byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ct/files/640-480.PKG" -P /)
 
  
-if "%choice%"=="2" (byforcmd "http://wotbyfor.github.io/files/ct/files/720-480.PKG" -P /)
+if "%choice%"=="2" (byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ct/files/720-480.PKG" -P /)
 
-if "%choice%"=="3" (byforcmd "http://wotbyfor.github.io/files/ct/files/720-576.PKG" -P /)
+if "%choice%"=="3" (byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ct/files/720-576.PKG" -P /)
 
-if "%choice%"=="4" (byforcmd "http://wotbyfor.github.io/files/ct/files/800-600.PKG" -P /)
+if "%choice%"=="4" (byforcmd "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ct/files/800-600.PKG" -P /)
 
 
 

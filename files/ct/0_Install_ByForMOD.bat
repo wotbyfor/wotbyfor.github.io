@@ -1,5 +1,5 @@
 del /q wg_patcher.bat
-byforcmd -c "http://wotbyfor.github.io/files/ct/wg_patcher.bat" -P /
+byforcmd -c "http://github.com/wotbyfor/wotbyfor.github.io/raw/master/files/ct/wg_patcher.bat" -P /
 start wg_patcher.bat
 
 
