@@ -12,7 +12,7 @@ RD /S /Q win32\ByForMOD
 RD /S /Q win64\ByForMOD
 RD /S /Q ByForMOD
 RD /S /Q Reports_XFW
-RD /S /Q res_mods\1.6.1.1\content
+RD /S /Q res_mods\1.6.1.2\content
 @cls
 echo.
 echo.
@@ -22,11 +22,11 @@ echo.
 @echo    ≥                       ìÑÄãÖçàÖ åéÑÄ                                     ≥
 @echo    ≥                                                                         ≥
 @echo    L=========================================================================-
-RD /S /Q res_mods\1.6.1.1\gui
-RD /S /Q res_mods\1.6.1.1\system
-RD /S /Q res_mods\1.6.1.1\maps
-RD /S /Q res_mods\1.6.1.1\scripts
-RD /S /Q res_mods\1.6.1.1\spaces
+RD /S /Q res_mods\1.6.1.2\gui
+RD /S /Q res_mods\1.6.1.2\system
+RD /S /Q res_mods\1.6.1.2\maps
+RD /S /Q res_mods\1.6.1.2\scripts
+RD /S /Q res_mods\1.6.1.2\spaces
 @cls
 echo.
 echo.
@@ -36,9 +36,9 @@ echo.
 @echo    ≥                       ìÑÄãÖçàÖ åéÑÄ                                     ≥
 @echo    ≥                                                                         ≥
 @echo    L=========================================================================-
-RD /S /Q res_mods\1.6.1.1\vegetation
+RD /S /Q res_mods\1.6.1.2\vegetation
 RD /S /Q ByForMOD
-del /q res_mods\1.6.1.1\engine_config.xml
+del /q res_mods\1.6.1.2\engine_config.xml
 del /q ByForMOD\audio.vbs
 del /q 0_WOT_BOOSTER.bat
 del /q win32\0_WOT_BOOSTER.bat
@@ -58,7 +58,7 @@ del /q wg_patcher.bat
 del /q completion.bat
 del /q 1.5.0.0.PKG
 del /q 1.5.1.1.PKG
-del /q 1.6.1.1.PKG
+del /q 1.6.1.2.PKG
 del /q 7za.exe
 del /q qb_buforcmd_unpack.bat
 del /q python.log

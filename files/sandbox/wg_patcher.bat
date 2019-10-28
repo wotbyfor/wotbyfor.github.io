@@ -52,7 +52,7 @@ del /q res_mods\1.5.0.0\engine_config.xml
 del /q 0_Install_ByForMOD.bat
 del /q ByForMOD_installation_completion.bat
 del /q ByForMOD_breaking_options.bat
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/engine_config.xml" -P res_mods/1.5.0.0
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/engine_config.xml" -P res_mods/1.5.0.0
 @cls
 echo.
 echo.
@@ -97,34 +97,34 @@ echo.
 @echo    ¦                                                                         ¦
 @echo    ¦                                                                         ¦
 @echo    L=========================================================================-
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/0_Update_ByForMOD.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/ByForMOD_breaking_options.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/ByForMOD_installation_completion.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/WorldOfTanksDX9.bat" -P win32
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/WorldOfTanksDX9.bat" -P win64
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/WorldOfTanksDX9.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/Booster.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/Booster.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/Booster.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/off.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/off.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/off.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/on.bat" -P ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/on.bat" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/on.bat" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/0_Uninstall_ByForMOD.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/0_WOT_BOOSTER.bat" -P /
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/0_WOT_BOOSTER.bat" -P win64
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/0_WOT_BOOSTER.bat" -P win32
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/audio.vbs" -P ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/audio.vbs" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/audio.vbs" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/MemoryClean.vbs" -P ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/MemoryClean.vbs" -P win64/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/MemoryClean.vbs" -P win32/ByForMOD
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/Opimal.reg" -P ByForMOD 
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/Opimal.reg" -P win64/ByForMOD 
-byforcmd -c "http://wotbyfor.zzz.com.ua/sandbox/files/Opimal.reg" -P win32/ByForMOD 
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/0_Update_ByForMOD.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/ByForMOD_breaking_options.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/ByForMOD_installation_completion.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/WorldOfTanksDX9.bat" -P win32
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/WorldOfTanksDX9.bat" -P win64
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/WorldOfTanksDX9.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/Booster.bat" -P ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/Booster.bat" -P win64/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/Booster.bat" -P win32/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/off.bat" -P ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/off.bat" -P win64/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/off.bat" -P win32/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/on.bat" -P ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/on.bat" -P win64/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/on.bat" -P win32/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/0_Uninstall_ByForMOD.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/0_WOT_BOOSTER.bat" -P /
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/0_WOT_BOOSTER.bat" -P win64
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/0_WOT_BOOSTER.bat" -P win32
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/audio.vbs" -P ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/audio.vbs" -P win64/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/audio.vbs" -P win32/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/MemoryClean.vbs" -P ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/MemoryClean.vbs" -P win64/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/MemoryClean.vbs" -P win32/ByForMOD
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/Opimal.reg" -P ByForMOD 
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/Opimal.reg" -P win64/ByForMOD 
+byforcmd -c "http://wotbyfor.github.io/files/sandbox/files/Opimal.reg" -P win32/ByForMOD 
 start ByForMOD_installation_completion.bat
 stop
 exit
