@@ -1,5 +1,5 @@
 <html lang="en" data-global-crop-class="global-crop" data-sidebar-mobile-class="crop-mobile" >
-<!----------Начало Техническая информация-------->	
+<!----------ГЌГ Г·Г Г«Г® Г’ГҐГµГ­ГЁГ·ГҐГ±ГЄГ Гї ГЁГ­ГґГ®Г°Г¬Г Г¶ГЁГї-------->	
 <head> 
 
  		<!-- Meta -->
@@ -16,27 +16,27 @@
 		<meta property="og:image" content="http://byfor.ru/uk/img/login_bg.png" />
         <meta name="thumbnail" content="http://byfor.ru/uk/img/3d-skin.png" />
         <meta name="twitter:image:src" content="http://byfor.ru/uk/img/donate-banner.jpg" />
-        <meta property="og:title" content="ByForMOD - Збільшення FPS у грі World Of Tanks"/>
-        <meta property="og:description" content="Цей мод для підвищення продуктивності гри World of Tanks.
-Дуже добре на слабких відеокартах і процесорах.
-Продуктивність гри буде такою ж, як у клієнтському патчі 0.9.18!"/>
+        <meta property="og:title" content="ByForMOD - Г‡ГЎВіГ«ГјГёГҐГ­Г­Гї FPS Гі ГЈГ°Ві World Of Tanks"/>
+        <meta property="og:description" content="Г–ГҐГ© Г¬Г®Г¤ Г¤Г«Гї ГЇВіГ¤ГўГЁГ№ГҐГ­Г­Гї ГЇГ°Г®Г¤ГіГЄГІГЁГўГ­Г®Г±ГІВі ГЈГ°ГЁ World of Tanks.
+Г„ГіГ¦ГҐ Г¤Г®ГЎГ°ГҐ Г­Г  Г±Г«Г ГЎГЄГЁГµ ГўВіГ¤ГҐГ®ГЄГ Г°ГІГ Гµ Ві ГЇГ°Г®Г¶ГҐГ±Г®Г°Г Гµ.
+ГЏГ°Г®Г¤ГіГЄГІГЁГўГ­ВіГ±ГІГј ГЈГ°ГЁ ГЎГіГ¤ГҐ ГІГ ГЄГ®Гѕ Г¦, ГїГЄ Гі ГЄГ«ВіВєГ­ГІГ±ГјГЄГ®Г¬Гі ГЇГ ГІГ·Ві 0.9.18!"/>
         <meta property="og:url" content="http://byfor.ru/uk/"/>
-        <meta property="og:site_name" content="ByForMOD - Збільшення FPS в грі World Of Tanks"/>
+        <meta property="og:site_name" content="ByForMOD - Г‡ГЎВіГ«ГјГёГҐГ­Г­Гї FPS Гў ГЈГ°Ві World Of Tanks"/>
         <meta name="twitter:card" content="summary_large_image"/>
-        <meta name="twitter:title" content="ByForMOD - Збільшення FPS в грі World Of Tanks"/>   
-        <meta name="twitter:description" content="Цей мод для підвищення продуктивності гри World of Tanks.
-Дуже добре на слабких відеокартах і процесорах.
-Продуктивність гри буде такою ж, як у клієнтському патчі 0.9.18!"/>
+        <meta name="twitter:title" content="ByForMOD - Г‡ГЎВіГ«ГјГёГҐГ­Г­Гї FPS Гў ГЈГ°Ві World Of Tanks"/>   
+        <meta name="twitter:description" content="Г–ГҐГ© Г¬Г®Г¤ Г¤Г«Гї ГЇВіГ¤ГўГЁГ№ГҐГ­Г­Гї ГЇГ°Г®Г¤ГіГЄГІГЁГўГ­Г®Г±ГІВі ГЈГ°ГЁ World of Tanks.
+Г„ГіГ¦ГҐ Г¤Г®ГЎГ°ГҐ Г­Г  Г±Г«Г ГЎГЄГЁГµ ГўВіГ¤ГҐГ®ГЄГ Г°ГІГ Гµ Ві ГЇГ°Г®Г¶ГҐГ±Г®Г°Г Гµ.
+ГЏГ°Г®Г¤ГіГЄГІГЁГўГ­ВіГ±ГІГј ГЈГ°ГЁ ГЎГіГ¤ГҐ ГІГ ГЄГ®Гѕ Г¦, ГїГЄ Гі ГЄГ«ВіВєГ­ГІГ±ГјГЄГ®Г¬Гі ГЇГ ГІГ·Ві 0.9.18!"/>
         <meta name="twitter:url" content="http://byfor.ru/uk/en/"/>
         <meta property="fb:pages" content="720002121403767"/>
-        <meta name="copyright" lang="ru" content="Сайт OOS ByFor є частиною проекту ByFor. Всі питання можна задати на форумі, але спочатку подивіться на питання, які вже задавали інші люди." />
+        <meta name="copyright" lang="ru" content="Г‘Г Г©ГІ OOS ByFor Вє Г·Г Г±ГІГЁГ­Г®Гѕ ГЇГ°Г®ГҐГЄГІГі ByFor. Г‚Г±Ві ГЇГЁГІГ Г­Г­Гї Г¬Г®Г¦Г­Г  Г§Г Г¤Г ГІГЁ Г­Г  ГґГ®Г°ГіГ¬Ві, Г Г«ГҐ Г±ГЇГ®Г·Г ГІГЄГі ГЇГ®Г¤ГЁГўВіГІГјГ±Гї Г­Г  ГЇГЁГІГ Г­Г­Гї, ГїГЄВі ГўГ¦ГҐ Г§Г Г¤Г ГўГ Г«ГЁ ВіГ­ГёВі Г«ГѕГ¤ГЁ." />
 		<!-- Meta -->
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>ByForMOD - Збільшення FPS у грі World Of Tanks"</title>
-        <meta name="description" content="Цей мод для підвищення продуктивності гри World of Tanks.
-Дуже добре на слабких відеокартах і процесорах.
-Продуктивність гри буде такою ж, як у клієнтському патчі 0.9.18!" />
+        <title>ByForMOD - Г‡ГЎВіГ«ГјГёГҐГ­Г­Гї FPS Гі ГЈГ°Ві World Of Tanks"</title>
+        <meta name="description" content="Г–ГҐГ© Г¬Г®Г¤ Г¤Г«Гї ГЇВіГ¤ГўГЁГ№ГҐГ­Г­Гї ГЇГ°Г®Г¤ГіГЄГІГЁГўГ­Г®Г±ГІВі ГЈГ°ГЁ World of Tanks.
+Г„ГіГ¦ГҐ Г¤Г®ГЎГ°ГҐ Г­Г  Г±Г«Г ГЎГЄГЁГµ ГўВіГ¤ГҐГ®ГЄГ Г°ГІГ Гµ Ві ГЇГ°Г®Г¶ГҐГ±Г®Г°Г Гµ.
+ГЏГ°Г®Г¤ГіГЄГІГЁГўГ­ВіГ±ГІГј ГЈГ°ГЁ ГЎГіГ¤ГҐ ГІГ ГЄГ®Гѕ Г¦, ГїГЄ Гі ГЄГ«ВіВєГ­ГІГ±ГјГЄГ®Г¬Гі ГЇГ ГІГ·Ві 0.9.18!" />
 		
 		  <!-- css -->
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
@@ -154,9 +154,9 @@
                   <ul class="nav navbar-nav navbar-right">
                     <!-- navigation links -->
 				
-                    <li rel="canonical" class="active"><a href="http://byfor.ru/uk/">Домашня сторінка</a></li>
+                    <li rel="canonical" class="active"><a href="http://byfor.ru/uk/">Г„Г®Г¬Г ГёГ­Гї Г±ГІГ®Г°ВіГ­ГЄГ </a></li>
 					
-					<li rel="canonical" class="active"><a href="http://byfor.ru/clan.html"target="_blank">НАШ КЛАН</a></li>
+					<li rel="canonical" class="active"><a href="http://byfor.ru/clan.html"target="_blank">ГЌГЂГ ГЉГ‹ГЂГЌ</a></li>
 					<li rel="canonical" class="active"><a href="http://byfor.ru/">RU</a></li>
 					 <li rel="canonical" class="active"><a href=""><sup><ins>UA</ins></sup></a></li>
 					  <li rel="canonical" class="active"><a href="http://byfor.ru/eu/">EU</a></li>
@@ -175,15 +175,15 @@
 			  
 
         <!-- banner text -->
-        <h1>ByForMOD »Збільшення FPS</h1>
-        <p>Цей мод забезпечує кращу продуктивність
-у грі World of Tanks.<br>Дуже добре на слабких відеокартах і процесорах.<br>
-Продуктивність гри буде такою ж, як у клієнтському патчі 0.9.18!</p>
+        <h1>ByForMOD В»Г‡ГЎВіГ«ГјГёГҐГ­Г­Гї FPS</h1>
+        <p>Г–ГҐГ© Г¬Г®Г¤ Г§Г ГЎГҐГ§ГЇГҐГ·ГіВє ГЄГ°Г Г№Гі ГЇГ°Г®Г¤ГіГЄГІГЁГўГ­ВіГ±ГІГј
+Гі ГЈГ°Ві World of Tanks.<br>Г„ГіГ¦ГҐ Г¤Г®ГЎГ°ГҐ Г­Г  Г±Г«Г ГЎГЄГЁГµ ГўВіГ¤ГҐГ®ГЄГ Г°ГІГ Гµ Ві ГЇГ°Г®Г¶ГҐГ±Г®Г°Г Гµ.<br>
+ГЏГ°Г®Г¤ГіГЄГІГЁГўГ­ВіГ±ГІГј ГЈГ°ГЁ ГЎГіГ¤ГҐ ГІГ ГЄГ®Гѕ Г¦, ГїГЄ Гі ГЄГ«ВіВєГ­ГІГ±ГјГЄГ®Г¬Гі ГЇГ ГІГ·Ві 0.9.18!</p>
         
          <div id="install">
           <div class="links">
-            <a href="#install" class="btn btn-transparent">Виберіть файл запуску<i class="fa fa-play-circle-o"></i></a>
-            <a href="https://modp.wgcdn.co/media/mod_files/ByForMODOLD_FPS_GXjjEiR.zip" class="btn btn-danger dlButton">Завантажити (v31beta)<i class="fa fa-chevron-right"></i></a>
+            <a href="#install" class="btn btn-transparent">Г‚ГЁГЎГҐГ°ВіГІГј ГґГ Г©Г« Г§Г ГЇГіГ±ГЄГі<i class="fa fa-play-circle-o"></i></a>
+            <a href="https://modp.wgcdn.co/media/mod_files/ByForMODV32.zip" class="btn btn-danger dlButton">Г‡Г ГўГ Г­ГІГ Г¦ГЁГІГЁ (v32)<i class="fa fa-chevron-right"></i></a>
           </div>
 		
 
@@ -206,12 +206,12 @@
         <div class="row">
             <div id="about">
               <h1>
-                Виберіть файл запуску
+                Г‚ГЁГЎГҐГ°ВіГІГј ГґГ Г©Г« Г§Г ГЇГіГ±ГЄГі
               </h1>
               <p>
-                » Запустіть гру в режимі DirectX10 через цей файл WorldOfTanks(startgame).bat<br>
+                В» Г‡Г ГЇГіГ±ГІВіГІГј ГЈГ°Гі Гў Г°ГҐГ¦ГЁГ¬Ві DirectX10 Г·ГҐГ°ГҐГ§ Г¶ГҐГ© ГґГ Г©Г« WorldOfTanks(startgame).bat<br>
                <br>
-                » Запустіть гру в режимі DirectX9 через цей файл WorldOfTanks(startgame_DX9).bat .<br>
+                В» Г‡Г ГЇГіГ±ГІВіГІГј ГЈГ°Гі Гў Г°ГҐГ¦ГЁГ¬Ві DirectX9 Г·ГҐГ°ГҐГ§ Г¶ГҐГ© ГґГ Г©Г« WorldOfTanks(startgame_DX9).bat .<br>
 				<br>
               </p>
               <a href="http://byfor.ru/uk/WorldOfTanks(startgame).zip"target="_blank" class="btn btn-transparent">DX11 + HIGH PRIORITY<i class="fa fa-play-circle-o"></i></a>
@@ -237,12 +237,12 @@
           <div id="donate">
             <div class="container">
               <div class="col-md-8">
-              <h1>Моди від maksroker</h1>
-			  <p>>Розмістіть вміст архіву в папці</h4>
+              <h1>ГЊГ®Г¤ГЁ ГўВіГ¤ maksroker</h1>
+			  <p>>ГђГ®Г§Г¬ВіГ±ГІВіГІГј ГўГ¬ВіГ±ГІ Г Г°ГµВіГўГі Гў ГЇГ ГЇГ¶Ві</h4>
                 <p>>WorldOfTanks :  0_Install_ByForMOD.bat > 7za.exe > byforcmd.exe > packages.PKG</p>
 			<p>Open 0_Install_ByForMOD.bat</h4>
-                <p>- Розмістіть цей файл у кореневій папці з грою.</p>
-              <p>Ми публікуємо наш мод тільки на офіційному модному сайті, групі Вконтакте та wgmods.net</p>
+                <p>- ГђГ®Г§Г¬ВіГ±ГІВіГІГј Г¶ГҐГ© ГґГ Г©Г« Гі ГЄГ®Г°ГҐГ­ГҐГўВіГ© ГЇГ ГЇГ¶Ві Г§ ГЈГ°Г®Гѕ.</p>
+              <p>ГЊГЁ ГЇГіГЎГ«ВіГЄГіВєГ¬Г® Г­Г Гё Г¬Г®Г¤ ГІВіГ«ГјГЄГЁ Г­Г  Г®ГґВіГ¶ВіГ©Г­Г®Г¬Гі Г¬Г®Г¤Г­Г®Г¬Гі Г±Г Г©ГІВі, ГЈГ°ГіГЇВі Г‚ГЄГ®Г­ГІГ ГЄГІГҐ ГІГ  wgmods.net</p>
               <a href="http://wgmods.net/search/?owner=237580" class="btn btn-danger">Watch <i class="fa fa-chevron-right"></i></a>
             </div>
             <div class="col-md-4">
@@ -261,7 +261,7 @@
             </div>
             <div class="col-md-8">
               <div class="row">
-                <h2>©2017-2019 ByForMOD 12+ Наш мод офіційно підтверджений компанією. <span> <a href="http://ru.wargaming.net/"target="_blank" style="color:#ff6c36;">Wargaming.net </a></span> Всі права захищені.</h2>
+                <h2>В©2017-2019 ByForMOD 12+ ГЌГ Гё Г¬Г®Г¤ Г®ГґВіГ¶ВіГ©Г­Г® ГЇВіГ¤ГІГўГҐГ°Г¤Г¦ГҐГ­ГЁГ© ГЄГ®Г¬ГЇГ Г­ВіВєГѕ. <span> <a href="http://ru.wargaming.net/"target="_blank" style="color:#ff6c36;">Wargaming.net </a></span> Г‚Г±Ві ГЇГ°Г ГўГ  Г§Г ГµГЁГ№ГҐГ­Ві.</h2>
               <div class="social-links">
                 
 
@@ -272,9 +272,9 @@
                 <div class="links">
 
                
-				                      <a href="http://byfor.ru/uk/">Домашня сторінка</a>
+				                      <a href="http://byfor.ru/uk/">Г„Г®Г¬Г ГёГ­Гї Г±ГІГ®Г°ВіГ­ГЄГ </a>
 					
-					<a href="http://byfor.ru/uk/clan/"target="_blank">НАШ КЛАН</a>
+					<a href="http://byfor.ru/uk/clan/"target="_blank">ГЌГЂГ ГЉГ‹ГЂГЌ</a>
 					<a href="http://byfor.ru/">RU</a>
 					 <a href=""><sup><ins>UA</ins></sup></a>
 					  <a href="http://byfor.ru/eu/">EU</a>
