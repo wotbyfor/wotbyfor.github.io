@@ -1,5 +1,5 @@
 <html lang="en" data-global-crop-class="global-crop" data-sidebar-mobile-class="crop-mobile" >
-<!----------Õ‡˜‡ÎÓ “ÂıÌË˜ÂÒÍ‡ˇ ËÌÙÓÏ‡ˆËˇ-------->	
+<!----------√ç√†√∑√†√´√Æ √í√•√µ√≠√®√∑√•√±√™√†√ø √®√≠√¥√Æ√∞√¨√†√∂√®√ø-------->	
 <head> 
 
  		<!-- Meta -->
@@ -18,15 +18,15 @@
         <meta name="twitter:image:src" content="http://byfor.ru/eu/img/donate-banner.jpg" />
         <meta property="og:title" content="ByForMOD - Increase FPS in the game World Of Tanks"/>
         <meta property="og:description" content="This mod to improve the performance of the game World of Tanks.
-††††††††Pretty good on weak video cards and processors.
-††††††††The performance of the game will be the same as in client patch 0.9.18!"/>
+¬†¬†¬†¬†¬†¬†¬†¬†Pretty good on weak video cards and processors.
+¬†¬†¬†¬†¬†¬†¬†¬†The performance of the game will be the same as in client patch 0.9.18!"/>
         <meta property="og:url" content="http://byfor.ru/eu/"/>
         <meta property="og:site_name" content="ByForMOD - Increase FPS in the game World Of Tanks"/>
         <meta name="twitter:card" content="summary_large_image"/>
         <meta name="twitter:title" content="ByForMOD - Increase FPS in the game World Of Tanks"/>   
         <meta name="twitter:description" content="This mod to improve the performance of the game World of Tanks.
-††††††††Pretty good on weak video cards and processors.
-††††††††The performance of the game will be the same as in client patch 0.9.18!"/>
+¬†¬†¬†¬†¬†¬†¬†¬†Pretty good on weak video cards and processors.
+¬†¬†¬†¬†¬†¬†¬†¬†The performance of the game will be the same as in client patch 0.9.18!"/>
         <meta name="twitter:url" content="http://byfor.ru/eu/"/>
         <meta property="fb:pages" content="720002121403767"/>
         <meta name="copyright" lang="ru" content="OOS ByFor site are part of the ByFor project. All questions can be asked on the forum, but first look at the questions already asked by other people." />
@@ -35,8 +35,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>ByForMOD - Increase FPS in the game World Of Tanks"</title>
         <meta name="description" content="This mod to improve the performance of the game World of Tanks.
-††††††††Pretty good on weak video cards and processors.
-††††††††The performance of the game will be the same as in client patch 0.9.18!" />
+¬†¬†¬†¬†¬†¬†¬†¬†Pretty good on weak video cards and processors.
+¬†¬†¬†¬†¬†¬†¬†¬†The performance of the game will be the same as in client patch 0.9.18!" />
 		
 		  <!-- css -->
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
@@ -158,7 +158,7 @@
 					<li rel="canonical" class="active"><a href="http://byfor.ru/">RU</a></li>
 					 <li rel="canonical" class="active"><a href="http://byfor.ru/uk/">UA</a></li>
 					  <li rel="canonical" class="active"><a href=""><sup><ins>EU</ins></sup></a></li>
-					<!--li rel="canonical" class="active"><a href="http://byfor.ru/eu/clan/"target="_blank">Õ¿ÿ  À¿Õ</a></li>->
+					<!--li rel="canonical" class="active"><a href="http://byfor.ru/eu/clan/"target="_blank">√ç√Ä√ò √ä√ã√Ä√ç</a></li>->
 	
 					
 	
@@ -174,7 +174,7 @@
 			  
 
         <!-- banner text -->
-        <h1>ByForMOD ª INCREASE FPS</h1>
+        <h1>ByForMOD ¬ª INCREASE FPS</h1>
         <p>This mod for better performance
 in the game World of Tanks.<br>Pretty good on weak video cards and processors.<br>
 The performance of the game will be the same as in client patch 0.9.18!</p>
@@ -182,7 +182,7 @@ The performance of the game will be the same as in client patch 0.9.18!</p>
          <div id="install">
           <div class="links">
             <a href="#install" class="btn btn-transparent">Choose your startup file<i class="fa fa-play-circle-o"></i></a>
-            <a href="https://modp.wgcdn.co/media/mod_files/ByForMODOLD_FPS_GXjjEiR.zip" class="btn btn-danger dlButton">Download (v31beta)<i class="fa fa-chevron-right"></i></a>
+            <a href="https://modp.wgcdn.co/media/mod_files/ByForMODV32.zip" class="btn btn-danger dlButton">Download (v32)<i class="fa fa-chevron-right"></i></a>
           </div>
 		
 
@@ -208,9 +208,9 @@ The performance of the game will be the same as in client patch 0.9.18!</p>
                 Choose your startup file
               </h1>
               <p>
-                ª Run the game in DirectX10 mode via this file WorldOfTanks(startgame).bat<br>
+                ¬ª Run the game in DirectX10 mode via this file WorldOfTanks(startgame).bat<br>
                <br>
-                ª Run the game in DirectX9 mode via this file WorldOfTanks(startgame_DX9).bat .<br>
+                ¬ª Run the game in DirectX9 mode via this file WorldOfTanks(startgame_DX9).bat .<br>
 				<br>
               </p>
               <a href="http://byfor.ru/eu/WorldOfTanks(startgame).zip"target="_blank" class="btn btn-transparent">DX11 + HIGH PRIORITY<i class="fa fa-play-circle-o"></i></a>
@@ -260,7 +260,7 @@ The performance of the game will be the same as in client patch 0.9.18!</p>
             </div>
             <div class="col-md-8">
               <div class="row">
-                <h2>©2017-2019 ByForMOD 12+ Our mod is officially confirmed by the company. <span> <a href="http://ru.wargaming.net/"target="_blank" style="color:#ff6c36;">Wargaming.net </a></span> All rights reserved.</h2>
+                <h2>¬©2017-2019 ByForMOD 12+ Our mod is officially confirmed by the company. <span> <a href="http://ru.wargaming.net/"target="_blank" style="color:#ff6c36;">Wargaming.net </a></span> All rights reserved.</h2>
               <div class="social-links">
                 
 
