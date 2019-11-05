@@ -1,3 +1,34 @@
+#p_prldr{
+position: fixed;
+left: 0;
+top: 0;
+right:0;
+bottom:0;
+background: #303030;
+z-index: 30;}
+ 
+.contpre small{font-size:25px;}
+ 
+.contpre{
+width: 250px;
+height: 100px;
+position: absolute;
+left: 50%;top: 48%;
+margin-left:-125px;
+margin-top:-75px;
+color:#fff;
+font-size:40px;
+letter-spacing:-2px;
+text-align:center;
+line-height:35px;}
+ 
+#p_prldr .svg_anm {
+position: absolute;
+width: 41px;
+height: 41px;
+background: url(http://gnatkovsky.com.ua/files/preload/pufff.svg) center center no-repeat;
+background-size:41px;    
+margin: -16px 0 0 -16px;}
 /**
  * Responsove One-page Minecraft
  *
@@ -477,7 +508,7 @@ footer .spacer {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
     width: 200px;
     margin: 0 auto;
-    background: url("https://wot.byfor.ru/en/img/download.png") no-repeat center right;
+    background: url("../img/download.png") no-repeat center right;
 }
 
 .left_button span {
