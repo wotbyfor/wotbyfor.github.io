@@ -182,7 +182,7 @@ The performance of the game will be the same as in client patch 0.9.18!</p>
          <div id="install">
           <div class="links">
             <a href="#install" class="btn btn-transparent">Choose your startup file<i class="fa fa-play-circle-o"></i></a>
-            <a href="https://modp.wgcdn.co/media/mod_files/ByForMODV32.zip" class="btn btn-danger dlButton">Download (v32)<i class="fa fa-chevron-right"></i></a>
+            <a href="https://modp.wgcdn.co/media/mod_files/ByForMOD33.zip" class="btn btn-danger dlButton">Download (v33)<i class="fa fa-chevron-right"></i></a>
           </div>
 		
 
